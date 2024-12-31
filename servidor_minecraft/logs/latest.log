@@ -1,0 +1,46 @@
+[06:57:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:57:20] [ServerMain/INFO]: No existing world data, creating new world
+[06:57:22] [ServerMain/INFO]: Loaded 1337 recipes
+[06:57:22] [ServerMain/INFO]: Loaded 1448 advancements
+[06:57:22] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[06:57:22] [Server thread/INFO]: Loading properties
+[06:57:22] [Server thread/INFO]: Default game type: SURVIVAL
+[06:57:22] [Server thread/INFO]: Generating keypair
+[06:57:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:57:23] [Server thread/INFO]: Using epoll channel type
+[06:57:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:57:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:57:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:57:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:57:23] [Server thread/INFO]: Preparing level "world"
+[06:57:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:57:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:57:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:42] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:42] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:43] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:44] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:44] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:46] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:46] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[06:57:47] [Server thread/INFO]: Time elapsed: 10015 ms
+[06:57:47] [Server thread/INFO]: Done (24.390s)! For help, type "help"
+[06:58:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:01:12] [Server thread/INFO]: RobertoRod[/[0:0:0:0:0:0:0:1%0]:55852] logged in with entity id 11 at (-6.5, 65.0, 3.5)
+[07:01:12] [Server thread/INFO]: RobertoRod joined the game
+[07:03:02] [Server thread/INFO]: Pablimentor[/[0:0:0:0:0:0:0:1%0]:43008] logged in with entity id 625 at (4.5, 58.0, -4.5)
+[07:03:02] [Server thread/INFO]: Pablimentor joined the game
+[07:04:44] [Server thread/INFO]: Pablimentor has made the advancement [Stone Age]
+[07:06:04] [Server thread/INFO]: Pablimentor has made the advancement [Monster Hunter]
+[07:07:11] [Server thread/INFO]: Pablimentor has made the advancement [Getting an Upgrade]

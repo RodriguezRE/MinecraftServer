@@ -56,3 +56,6 @@
 [07:21:44] [Server thread/INFO]: [RobertoRod: Teleported RobertoRod to Pablimentor]
 [07:26:29] [Server thread/INFO]: RobertoRod was shot by Skeleton
 [07:26:34] [Server thread/INFO]: [RobertoRod: Teleported RobertoRod to Pablimentor]
+[07:34:43] [Server thread/INFO]: RobertoRod has made the advancement [Monster Hunter]
+[07:36:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=26, y=27, z=0} jh{x=16, y=22, z=5}
+[07:37:31] [Server thread/INFO]: RobertoRod has made the advancement [Acquire Hardware]

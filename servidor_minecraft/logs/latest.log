@@ -69,3 +69,21 @@
 [08:14:24] [Server thread/INFO]: RobertoRod was slain by Zombie
 [08:14:28] [Server thread/INFO]: [RobertoRod: Teleported RobertoRod to Pablimentor]
 [08:21:19] [Server thread/INFO]: Pablimentor has made the advancement [Diamonds!]
+[08:44:08] [Server thread/INFO]: RobertoRod has made the advancement [Diamonds!]
+[08:48:53] [Server thread/INFO]: RobertoRod has made the advancement [Minecraft: Trial(s) Edition]
+[08:50:24] [Server thread/INFO]: [Not Secure] <RobertoRod> -234.700 -26 59.300
+[08:52:54] [Server thread/INFO]: Pablimentor has made the advancement [The Parrots and the Bats]
+[08:57:18] [Server thread/INFO]: [Not Secure] <Pablimentor> x=108 y=14 z=55
+[08:57:50] [Server thread/INFO]: [Not Secure] <Pablimentor> x=-108 Y=14 Z=-55
+[08:57:54] [Server thread/INFO]: Pablimentor has made the advancement [Sweet Dreams]
+[09:04:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-165, y=67, z=-76} jh{x=-164, y=65, z=-76}
+[09:04:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-161, y=67, z=-76} jh{x=-160, y=65, z=-77}
+[09:04:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-161, y=67, z=-79} jh{x=-161, y=65, z=-80}
+[09:04:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-163, y=66, z=-82} jh{x=-163, y=65, z=-84}
+[09:04:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-163, y=66, z=-82} jh{x=-163, y=65, z=-84}
+[09:04:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-163, y=66, z=-82} jh{x=-163, y=65, z=-84}
+[09:04:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-163, y=66, z=-82} jh{x=-163, y=65, z=-84}
+[09:04:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-164, y=67, z=-73} jh{x=-165, y=65, z=-72}
+[09:04:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-155, y=67, z=-63} jh{x=-154, y=65, z=-63}
+[09:04:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-164, y=67, z=-84} jh{x=-165, y=65, z=-84}
+[09:07:52] [Server thread/INFO]: RobertoRod fell from a high place

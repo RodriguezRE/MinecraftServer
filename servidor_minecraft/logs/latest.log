@@ -95,3 +95,18 @@
 [09:11:19] [Server thread/INFO]: RobertoRod[/[0:0:0:0:0:0:0:1%0]:33944] logged in with entity id 25727 at (-287.54385600869375, -10.0, 6.073293102603389)
 [09:11:19] [Server thread/INFO]: RobertoRod joined the game
 [09:13:09] [Server thread/INFO]: Pablimentor has made the advancement [What a Deal!]
+[09:21:01] [Server thread/INFO]: [Not Secure] <Pablimentor> x=-108 Y=14 Z=-55
+[09:25:02] [Server thread/INFO]: RobertoRod has made the advancement [Sweet Dreams]
+[09:33:59] [Server thread/INFO]: Pablimentor lost connection: Timed out
+[09:33:59] [Server thread/INFO]: Pablimentor left the game
+[09:34:15] [Server thread/INFO]: Stopping the server
+[09:34:15] [Server thread/INFO]: Stopping server
+[09:34:15] [Server thread/INFO]: Saving players
+[09:34:15] [Server thread/INFO]: Saving worlds
+[09:34:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:34:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:34:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:34:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
